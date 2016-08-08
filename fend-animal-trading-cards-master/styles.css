@@ -1,0 +1,53 @@
+/* add your CSS here */
+
+body {
+	font-size: 18px;
+}
+
+
+#card {
+	width: 500px;
+	border: 1px gray solid;
+	box-shadow: 10px 5px 5px #888888;
+}
+
+h3 {
+	font-size: 30px;
+	padding-bottom: 5px;
+	margin-left: 15px;
+}
+
+img {
+	width: 400px;
+	height: 300px;
+	margin: 0 15px 0 15px;
+
+}
+
+.info {
+	border: 1px gray solid;
+	padding: 10px;
+	margin: 15px;
+}
+
+.fact{
+	font-size: 20px;
+	font-style: italic;
+}
+
+span {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+li {
+	list-style: none ;
+	list-style-position:inside;
+
+
+}
+
+ul {
+	padding: 5px;
+}
+
